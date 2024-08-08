@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Maps Landing Page</title>
+    <style>
+        /* Basic styling */
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        #map {
+            height: 100%;
+            width: 75%;
+            position: absolute;
+            right: 0;
+        }
+        #sidebar {
+            height: 100%;
+            width: 25%;
+            position: absolute;
+            left: 0;
+            top: 0;
+            background-color: #f1f1f1;
+            overflow: auto;
+            padding: 10px;
+        }
+        #tabs {
+            display: flex;
+            justify-content: space-around;
+            background-color: #ccc;
+            cursor: pointer;
+            padding: 10px;
+        }
+        .tab-content {
+            display: none;
+            margin-top: 20px;
+        }
+        .tab-content.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div id="sidebar">
+        <div id="tabs">
+            <div data-tab="poi" class="tab active">POIs</div>
+            <div data-tab="products" class="tab">Products</div>
+        </div>
+        <div id="poi" class="tab-content active">
+            <h3>Points of Interest</h3>
+            <ul id="poi-list">
+                <!-- List of POIs -->
+            </ul>
+        </div>
+        <div id="products" class="tab-content">
+            <h3>Products</h3>
+            <ul id="product-list">
+                <!-- List of Products -->
+            </ul>
+        </div>
+    </div>
+    <div id="map"></div>
+
+    <script>
+        // Initialize and add the map
+        function initMap() {
+            const map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 12,
+                center: { lat: -34.397, lng: 150.644 }, // Default center
+            });
+
+            // Add markers or any additional map functionality here
+
+            // Dummy data for demonstration
+            const pois = [
+                { name: "POI 1", position: { lat: -34.397, lng: 150.644 } },
+                { name: "POI 2", position: { lat: -34.407, lng: 150.654 } }
+            ];
+
+            // Populate the POI list
+            const poiList = document.getElementById('poi-list');
+            pois.forEach(poi => {
+                const listItem = document.createElement('li');
+                listItem.textContent = poi.name;
+                poiList.appendChild(listItem);
+
+                // Add marker for each POI
+                new google.maps.Marker({
+                    position: poi.position,
+                    map,
+                    title: poi.name
+                });
+            });
+
+            // Populate product list (static example)
+            const products = ["Product 1", "Product 2", "Product 3"];
+            const productList = document.getElementById('product-list');
+            products.forEach(product => {
+                const listItem = document.createElement('li');
+                listItem.textContent = product;
+                productList.appendChild(listItem);
+            });
+        }
+
+        // Tab switching functionality
+        document.querySelectorAll('.tab').forEach(tab => {
+            tab.addEventListener('click', function() {
+                document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+
+                this.classList.add('active');
+                document.getElementById(this.dataset.tab).classList.add('active');
+            });
+        });
+
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
+    </script>
+</body>
+</html>
