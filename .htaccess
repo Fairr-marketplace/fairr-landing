@@ -1,0 +1,9 @@
+RewriteEngine On
+
+RewriteCond %{HTTP:Accept-Language} ^en [NC]
+RewriteCond %{REQUEST_URI} !en_US [NC]
+RewriteRule ^(.*)$  http://fairrmarketplace.com/en_US/$1 [L,R=301]
+
+RewriteCond %{HTTP:Accept-Language} ^pl [NC]
+RewriteCond %{REQUEST_URI} !pl_PL [NC]
+RewriteRule ^(.*)$ http://fairrmarketplace.com/pl_PL/$1 [L,R=301]
