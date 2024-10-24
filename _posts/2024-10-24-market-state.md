@@ -1,16 +1,11 @@
 ---
 layout: post
 title:  Organic food market research
-categories: [Research, Organic]
+categories: [Market research, Organic food]
 excerpt: Fairr addresses key challenges in the organic food market by reducing costs, improving accessibility, and promoting local, sustainable products, making organic shopping more affordable and convenient for consumers.
-image: /images/posts/steven-weeks-DUPFowqI6oI-unsplash.jpg
+image: /images/posts/organic-food-market-cagr.jpg
 ---
-![alt text](/images/posts/steven-weeks-DUPFowqI6oI-unsplash.jpg "Organic food")
-
-The online distribution channel segment is projected to grow at a CAGR of 15.2% from 2024 to 2030.
-The North American organic food & beverages market made a larger contribution in the global market of 49.9% in 2023 owing to the unique advantages associated with the products, such as being eco-friendly, zero chemical and residue-free, and healthier compared to conventional food.
-The supermarket/hypermarket distribution channel segment accounted for the largest share of over 60.1% in 2023.
-The global organic food and beverages market size was valued at USD 231.52 billion in 2023 and is expected to grow at a compound annual growth rate (CAGR) of 13.9% from 2024 to 2030.
+![Organic food cagr](/images/posts/organic-food-market-cagr.jpg "Organic food")
 
 # Market Growth and Consumer Behavior:
 
@@ -30,6 +25,8 @@ Despite growing demand, premium pricing and limited consumer awareness about the
 
 # Distribution and Retail Channels:
 
+![Distribution channels](/images/posts/global-organic-foods-beverages-market.png "Distribution channels")
+
 Supermarkets and hypermarkets dominate the distribution of organic products, accounting for over 60% of sales in 2023. However, online retail is rapidly growing, with a projected CAGR of 15.2% due to increasing internet penetration and the rise of subscription-based organic produce services.
 
 # Implications for Fairr:
@@ -37,6 +34,8 @@ Supermarkets and hypermarkets dominate the distribution of organic products, acc
 Fairr, as an omnichannel marketplace for local and organic products, can leverage these trends by providing a platform for independent retailers and producers to reach consumers who prioritize health, sustainability, and ethical consumption.
 By addressing the premium pricing and awareness challenges, Fairr could play a key role in improving accessibility to high-quality organic products while supporting local economies and sustainable farming practices.
 The rising demand for organic fruits, vegetables, and non-dairy beverages aligns well with Fairr’s mission to offer a curated selection of eco-friendly and healthy products. The growing trend of online shopping for organic goods highlights the potential for Fairr to expand through digital platforms.
+
+![Organic food](/images/posts/steven-weeks-DUPFowqI6oI-unsplash.jpg "Organic food")
 
 # How Fairr addresses today's market challenges
 ### High Costs and Premium Pricing
@@ -52,3 +51,4 @@ Fairr aligns itself with the growing consumer demand for environmentally respons
 
 ## Sources
 https://www.grandviewresearch.com/industry-analysis/organic-foods-beverages-market
+https://www.precedenceresearch.com/organic-food-market

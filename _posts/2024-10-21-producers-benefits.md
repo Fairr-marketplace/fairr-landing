@@ -5,7 +5,7 @@ categories: [Intro, Producers]
 excerpt: Fairr offers producers, such as farmers and artisans, direct market access to a broader consumer base, increased visibility, data-driven insights, and community support, enabling them to enhance profits, optimize products, and connect with like-minded businesses and consumers.
 image: /images/posts/producer-sample-portrait.jpeg
 ---
-![alt text](/images/posts/producer-sample-portrait.jpeg "Food producers")
+![Food producers](/images/posts/producer-sample-portrait.jpeg "Food producers")
 
 # Direct Market Access
 Producers, such as farmers, artisans, and manufacturers, can gain direct access to a broader consumer base through Fairr. By bypassing traditional middlemen, producers can potentially increase their profit margins and retain more control over their pricing and branding. Local retail being a reseller acts as last mile delivery.
