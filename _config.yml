@@ -12,7 +12,7 @@ author: Vadzim Zhuk
 description: Empowering local indie retail
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/fairr-logo-white.png
+avatar: /images/fairr.png
 
 #
 # Flags below are optional
@@ -100,4 +100,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
