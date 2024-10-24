@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Co to jest Fairr
+title: Czym jest Fairr
 permalink: /pl/about/
 ---
 
@@ -25,3 +25,30 @@ Fairr ma na celu przekształcenie lokalnej gospodarki, utrzymując wydatki w spo
 
 # Jak to działa?
 ![alt text](/images/scheme.jpg "Scheme")
+
+### Producenci mogą:
+- Znaleźć i nawiązać bezpośrednie partnerstwa z odsprzedawcami, unikając pośredników w łańcuchu dostaw
+- Tworzyć produkty, promować je i udostępniać swoim odsprzedawcom
+- Otrzymywać cenne informacje na temat sprzedaży, wyświetleń i reakcji na swoje produkty
+- Mieć bezpośredni kontakt z konsumentami poprzez promowanie produktów i otrzymywanie od nich opinii
+- Uzyskać wgląd w sprzedaż i marketing za pomocą aplikacji backoffice
+- Publikować artykuły w sieci Fairr, docierając bezpośrednio do konsumentów i odsprzedawców
+
+### Handlowcy mogą:
+- Znaleźć i nawiązać partnerstwa z producentami
+- Tworzyć oferty na podstawie produktów producentów
+- Otrzymywać wgląd w sprzedaż i marketing za pomocą aplikacji backoffice
+- Mieć bezpośredni kontakt z konsumentami poprzez promowanie ofert, uruchamianie sprzedaży i otrzymywanie od nich opinii
+- Publikować artykuły w sieci Fairr, docierając bezpośrednio do konsumentów
+- Otrzymywać zamówienia i przedzamówienia na swoje oferty
+- Promować produkty, które aktualnie nie są dostępne w magazynie
+
+### Konsumenci mogą:
+- Zamawiać produkty z różnymi opcjami dostawy: odbiór w sklepie, dostawa nocą, w weekendy lub nawet dostawa natychmiastowa
+- Subskrybować podstawowe produkty
+- Korzystać z rabatów opartych na programie lojalnościowym sklepu lub sieci
+- Znajdować informacje o dostępności produktów w sklepie
+- Czytać i zostawiać opinie o producentach, produktach i sklepach
+- Zamawiać znacznie więcej produktów niż te, które są dostępne na półkach lokalnych sklepów
+- Uzyskiwać znacznie bardziej szczegółowe opisy produktów, ich źródło i warunki produkcji
+- Odkrywać najlepsze oferty dzięki intuicyjnemu interfejsowi i przejrzystości sieci

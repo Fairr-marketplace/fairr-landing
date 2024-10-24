@@ -23,3 +23,30 @@ Fairr is set to transform the local economy by keeping spending within the commu
 
 # How does it work?
 ![alt text](/images/scheme.jpg "Scheme")
+
+### Producers can:
+- find and establish direct partnerships with resellers avoiding middlemen in the chain
+- create products, promote them and share to their resellers
+- have valuable insights about sales, views and reactions on their products
+- have direct contact with consumers by promoting products and having feedback from users
+- have sales and marketing insights in the backoffice app
+- publish articles within Fairr network and reach consumers and resellers directly
+
+### Merchants can:
+- find and establish partnerships with producers
+- create offers based on producers' products
+- have sales and marketing insights in the backoffice app
+- have direct contact with consumers by promoting offers, launching sales and having feedback from users
+- publish articles within Fairr network and reach consumers directly
+- get orders and preorders on their offers
+- promote products that are not yet currently in stock
+
+### Consumers can:
+- order products with variety of delivery options: pick up in store, night, weekend or even instance delivery
+- make subscriptions on base products
+- have discounts based on store or network-wide loyalty program
+- know product availability in store
+- read and leave a review on producers, products and stores
+- order much more products than presented on local store's shelf
+- get much more detailed product description, its source and production conditions
+- discover best offers via intuitive interface and network transparency
