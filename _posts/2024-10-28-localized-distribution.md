@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Globalized vs Localized distribution strategies
-categories: [Market research, Organic food]
+categories: [Market research, Intro]
 excerpt: Fairr addresses key challenges in the organic food market by reducing costs, improving accessibility, and promoting local, sustainable products, making organic shopping more affordable and convenient for consumers.
 image: /images/posts/localized-distribution.png
 ---
